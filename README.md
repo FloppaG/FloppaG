@@ -1,3 +1,1 @@
-👋Hi I'm new
-I play Minecraft
-🌱I'm learning about this app/website
+👋Hi I make Minecraft mods and I also make websites
