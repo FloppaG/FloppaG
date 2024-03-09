@@ -1,6 +1,6 @@
 # Floppa God
 
-Hi I'm a Developer that makes websites and Minecraft Bedrock mods/addons and a Youtuber
+Hi I'm a Developer who makes websites and Minecraft Bedrock addons
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=FloppaG&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/FloppaG)
